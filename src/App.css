@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.bigContainer {
+  max-width: 200px;
+}
+#total {
+  border-radius: 10%;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
 }
